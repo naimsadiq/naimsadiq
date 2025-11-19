@@ -21,18 +21,6 @@
 
 <br/>
 
-<!--- socials --->
-## <img src="./facebook-icon.jpg"><b> FOLLOW ME ON SOCIALS:</b>
-
-<div>
-  <p align="left">
-    <a href="https://www.facebook.com/naimsadiq.info/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="naimsadiq" height="30" width="40" />
-    </a>
-  </p>
-</div>
-
-<br/>
 
 <!--- technology --->
 ## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
