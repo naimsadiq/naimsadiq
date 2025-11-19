@@ -17,7 +17,7 @@
 - 👋 Hi, I’m **[@naimsadiq](https://github.com/naimsadiq)**
 - 🖥️ I’m currently working on **HTML, CSS, TailwindCSS, React.js** for frontend development.
 - 🗄️ Using **Node.js, Express.js, MongoDB, Firebase** for the backend.
-- 📫 Feel free to reach me out via **Email**
+- 📫 Feel free to reach me out via **[Email](nayemsadiq2013@gmail.com)**
 
 <br/>
 
@@ -27,7 +27,7 @@
 <div>
   <p align="left">
     <a href="https://www.facebook.com/naimsadiq.info/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=facebook" alt="naimsadiq" height="30" width="40" />
+      <img src="[https://skillicons.dev/icons?i=facebook](https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp)" alt="naimsadiq" height="30" width="40" />
     </a>
   </p>
 </div>
