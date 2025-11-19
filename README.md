@@ -27,7 +27,7 @@
 <div>
   <p align="left">
     <a href="https://www.facebook.com/naimsadiq.info/" target="_blank">
-      <img src="[https://skillicons.dev/icons?i=facebook](https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp)" alt="naimsadiq" height="30" width="40" />
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="naimsadiq" height="30" width="40" />
     </a>
   </p>
 </div>
