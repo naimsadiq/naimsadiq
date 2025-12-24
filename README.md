@@ -40,8 +40,6 @@
 ### Design & Graphics:
 [![Design & Graphics](https://skillicons.dev/icons?i=figma,photoshop,adobeillustrator)](https://github.com/naimsadiq)
 
-### Video & Audio Editing:
-[![Video & Audio Editing](https://skillicons.dev/icons?i=pr,audition)](https://github.com/naimsadiq)
 
 ### Other Tools:
 [![Other Tools](https://skillicons.dev/icons?i=filmora)](https://github.com/naimsadiq)
